@@ -2,7 +2,25 @@
 /*test to change paragraph text to blue*/ 
 
 p {
+	font-style: italic;
+}
 
-color: blue;
+#redSquare {
+	height: 100px;
+	width: 100px;
+	background-color: ##cc0000 ;
+}
 
+
+#greenSquare {
+	height: 100px;
+	width: 100px;
+	background-color: #00cc00 ;
+}
+
+
+#blueSquare {
+	height: 100px;
+	width: 100px;
+	background-color: ##0080ff ;
 }
