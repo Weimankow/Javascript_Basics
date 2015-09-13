@@ -8,7 +8,7 @@ p {
 #redSquare {
 	height: 100px;
 	width: 100px;
-	background-color: ##cc0000 ;
+	background-color: #cc0000 ;
 }
 
 
@@ -22,5 +22,12 @@ p {
 #blueSquare {
 	height: 100px;
 	width: 100px;
-	background-color: ##0080ff ;
+	background-color: #0080ff ;
+}
+
+
+#graySquare {
+	height: 100px;
+	width: 100px;
+	background-color: #d3d3d3 ;
 }
